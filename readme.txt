@@ -6,7 +6,7 @@ Requires at least: 3.3
 Tested up to: 4.1
 Stable tag: Trunk
 
-Shows the related posts on a single post in same catagory. 
+Shows the related posts on a single post from same catagory. 
 
 == Description ==
 
