@@ -1,7 +1,7 @@
 
 === WP Related Random Post  ===
 Contributors: Alomgir Kabir
-Tags: related, smae, category, post, random, unlimited, absulute
+Tags: related, same, category, post, random, unlimited, absulute
 Requires at least: 3.3
 Tested up to: 4.1
 Stable tag: Trunk
